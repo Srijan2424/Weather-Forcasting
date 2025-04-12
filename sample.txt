@@ -1,0 +1,6 @@
+Tell me the latitude of a location in India? 28.6139
+Tell me the longitude of a location in India? 77.2090
+
+Precipitation Percentage: 42 %
+Error Percentage: 9 %
+The weather condition in New Delhi: Cloudy with Possible Showers
