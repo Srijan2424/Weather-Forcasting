@@ -13,6 +13,7 @@ This Python project uses real-time weather data from the OpenWeatherMap API and 
 - 🎨 Optional ASCII art for a fun console experience.
 
 ---
+## 🎥 Video Explanation: https://drive.google.com/file/d/1QAE_IfGyLYXX6K1hLRT0mkn66nyW13ca/view?usp=sharing 
 
 ## 🛠️ Requirements
 
